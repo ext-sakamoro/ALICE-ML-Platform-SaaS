@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_ML_PLATFORM
+name: alice-ml-platform
 description: ALICE ML Platform
 type: application
 version: 0.1.0
